@@ -42,6 +42,7 @@ snap install slack --classic
 # Установка CUPS
 apt-get install cups
 usermod -aG lpadmin ${USER}
-
+# Очистка не нужных пакетов
+apt autoremove -y
 
 
