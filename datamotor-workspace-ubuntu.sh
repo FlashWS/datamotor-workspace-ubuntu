@@ -37,6 +37,9 @@ gsettings set org.gnome.desktop.interface clock-show-date true
 snap install skype --classic
 # Установка Slack
 snap install slack --classic
+# Установка CUPS
+apt-get install cups
+usermod -aG lpadmin ${USER}
 
 
 
