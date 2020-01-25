@@ -3,7 +3,7 @@
 ## Установка
 Запустить из терминала
 ```bash
-wget https://raw.githubusercontent.com/FlashWS/datamotor-workspace-ubuntu/master/datamotor-workspace-ubuntu.sh | sudo bash datamotor-workspace-ubuntu.sh
+sudo wget -O datamotor-workspace-ubuntu.sh https://raw.githubusercontent.com/FlashWS/datamotor-workspace-ubuntu/master/datamotor-workspace-ubuntu.sh; bash datamotor-workspace-ubuntu.sh
 ```
 
 ## В состав входит установка программ
