@@ -3,7 +3,7 @@
 ## Установка
 Запустить из терминала
 ```bash
-wget https://raw.githubusercontent.com/FlashWS/datamotor-workspace-ubuntu/master/src/datamotor-workspace-ubuntu.sh | sudo bash datamotor-workspace-ubuntu.sh
+wget https://raw.githubusercontent.com/FlashWS/datamotor-workspace-ubuntu/master/datamotor-workspace-ubuntu.sh | sudo bash datamotor-workspace-ubuntu.sh
 ```
 
 ## В состав входит установка программ
@@ -26,6 +26,8 @@ wget https://raw.githubusercontent.com/FlashWS/datamotor-workspace-ubuntu/master
 3. Добавление сочетание клавиш Alt + 1, для создания скриншота из Flameshot
 
 ## Примечание
+После завершения установки необходимо зайти в Программы -> Доп. настройки -> Расширения -> Dash to panel -> Включить
+
 В случае, если занято сочетание Alt + 1:
 1. Зайдите в Параметры -> Устройства -> Клавиатура
 2. Пролистайте вниз и нажмите на +
