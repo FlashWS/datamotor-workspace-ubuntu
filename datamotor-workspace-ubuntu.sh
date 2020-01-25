@@ -1,7 +1,7 @@
 # Обновление репозиториев
 apt-get update
 # Обновление ПО
-apt-get upgrade
+apt-get upgrade -y
 # Устанока MC
 apt-get install -y mc
 # Устанока Htop
